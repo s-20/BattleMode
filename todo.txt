@@ -1,0 +1,16 @@
+index.md ✔
+license.md ✔
+README.md ✔
+NarrativeSheet.md ✔
+BattleSheet.md ⇛
+SpecialEffects.md
+BuildingCharacter.md
+SuitUp.md
+GMing.md
+NarrativeMode.md
+BattleMode.md
+Techniques.md
+CreatingTechniques.md
+FlavoringTechniques.md
+MajorSuccess.md
+MajorFailure.md
