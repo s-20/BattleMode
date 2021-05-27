@@ -1,1 +1,1 @@
-# Battle Mode
+# Modes: Battle

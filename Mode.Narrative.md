@@ -1,1 +1,1 @@
-# Narrative Mode
+# Modes: Narrative
