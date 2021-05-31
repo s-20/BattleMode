@@ -13,6 +13,7 @@
   * [Systems: Battle Statistics](Systems.BattleStatistics.md)
   * [Systems: Bonuses and Penalties](Systems.BonusPenalty.md)
   * [Systems: Character Creation](Systems.CharacterCreation.md)
+  * [Systems: Checks](Systems.Checks.md)
   * [Systems: Difficulty](Systems.Difficulty.md)
   * [Systems: Hit Points](Systems.HitPoints.md)
   * [Systems: Major Success and Failure](Systems.MajorSF.md)

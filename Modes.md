@@ -8,9 +8,18 @@ The other advantage is that the two systems, though interconnected, can operate 
 
 ## Basic Framework
 
-Modes uses five different dice - `d4`, `d6`, `d8`, `d10`, and `d12`, and uses traditional dice notation throughout the rules (i.e. `2d8` means roll two eight-sided dice and total the results). If for some reason you find yourself rolling more than five dice, you count the five highest values. This means there's a technical limit to how high your results can go (5x12= 60).
+Modes uses three types of dice - `d4`, `d6`, and `d8`, with `d6` being the most common. When you make a `Check`, you roll three or more dice, totaling either the highest or the lowest three dice (see [Systems: Bonus and Penalty](Systems.BonusPenalty.md)). You compare the total to a target number (the [Difficulty](Systems.Difficulty.md) or `DIF`), or the result of an opposed roll.
 
-Modes works primarily by rolling and totalling dice, with higher results generally being better than lower ones.
+If your dice roll within five below the target number but not equal to the number itself, then you succeed - but barely, and there's a twist to your victory. If you roll lower than that, you've failed marginally - you still make progress or achieve some effect, but you don't quite get there. If your roll exceeds the value, you succeed at the task.
+
+There are two other possible results - [Major Failure and Major Success](Systems.MajorSF.md). If all the dice you count are a 1, then you have a Major Failure, and if you exceed the amount you needed by 5 more more, you have a Major Success.
+
+*Major Failure* means not only to you fail at what you were trying to do, but something may happen to make your life more difficult - failure with a twist. *Major Success* means that you not only accomplish your goal, you gain some additional benefit as well - either immediately, or carried forward to a later `Check` or event.
+
+> **Further Reading:**
+> * [Systems: Checks and Challenges](Systems.Checks.md)
+> * [Systems: Difficulty](Systems.Difficulty.md)
+> * [Systems: Major Success and Failure](Systems.MajorSF.md)
 
 ### Rounding
 

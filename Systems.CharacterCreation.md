@@ -6,7 +6,7 @@ If you're not using a particular mode, then don't bother with that sheet. If you
 
 One thing that all sheets share, however, is [Trauma](Systems.Trauma.md);
 
-## Narrative Character
+## Narrative Sheet
 
 The Narrative Character Sheet is a combination of short biography (Background) and a Curriculum Vitae (Traits) - it states who your character is, where they came from, what skills they've picked up, and any affiliations they have. This is roughly divided into Background and Traits.
 
@@ -14,14 +14,14 @@ The Narrative Character Sheet is a combination of short biography (Background) a
 
 ### Traits
 
-## Battle Character
+## Battle Sheet
 
 ### Statistics
 
-### Maneuvers
+### Actions (Stunts, Powers, and Techniques)
 
 ### Hit Points
 
-## Sources
+## Source Sheet
 
 ## Trauma
